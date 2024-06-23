@@ -1,0 +1,5 @@
+1/0/red
+2/0.5/cyan
+/
+0/0/100/50/0.5/1/example comment
+50/50/50/10/1/2/small red cone top right
